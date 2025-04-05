@@ -21,7 +21,8 @@ a
     font-style: italic;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    } 
+     } 
+
 
 h1 
     { font-size: 64px;
@@ -39,17 +40,20 @@ h2
 
 
 .foto img
-    {width: 300px;
+    {width: 250px;
     border-radius: 10px;
     margin: 15px 10px 20px 10%;
     float: left;
-    border: 5px solid rgb(80, 52, 76);}
+    border: 5px solid rgb(80, 52, 76);
+    }
 
 
 .kontakt
         {padding: 10px 20% 40px 10%;
         overflow: auto;
-        color: rgb(214, 188, 207)}
+        color: rgb(214, 188, 207);}
+a:hover {background-color: rgb(131, 189, 248);}
+
 
 
 .education
